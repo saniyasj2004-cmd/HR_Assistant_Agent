@@ -1,13 +1,13 @@
-# GenAI Agentic HR Assistant
+# HR_Assistant_Agent
 
-The **GenAI Agentic HR Assistant** is an AI-powered application designed to streamline HR management tasks. This application leverages the power of *MongoDB*, *LLMs (Used Groq-Mistral)*, and agentic workflows using *Langchain agent* to provide intelligent and efficient solutions for employee record management, team formation, and natural language query resolution.
+The **HR Assistant Agent** is an AI-powered application designed to streamline HR management tasks. This application leverages the power of *MongoDB*, *LLMs (Used Groq-Mistral)*, and agentic workflows using *Langchain agent* to provide intelligent and efficient solutions for employee record management, team formation, and natural language query resolution.
 
 ---
 
 ## Directory Structure
 
 ```plaintext
-bachasachin0-Genai_Agentic_HR_asssitant/
+saniyasj-HR_Asssitant_Agent/
 ├── config.py                  # Configuration settings for the application
 ├── main.py                    # It is just to check if the agent is working well
 ├── agent/                     # Core agent functionality
@@ -53,7 +53,7 @@ bachasachin0-Genai_Agentic_HR_asssitant/
 
 2. Navigate to the project directory:
    ```bash
-   cd Genai_Agentic_HR_assistant
+   cd HR_Assistant_Agent
    ```
 
 3. Install dependencies:
@@ -110,11 +110,11 @@ Contributions are welcome! Please follow these steps:
 
 For questions or feedback, please contact:
 
-- **Name**: Sachin V Bacha
-- **Email**: bachasachin0@gmail.com
+- **Name**: Saniya S J
+- **Email**: saniyasj2004@gmail.com
 
 
 ---
 
-Enjoy using the GenAI Agentic HR Assistant! Let know your thoughts and suggestions.
+Enjoy using the HR Assistant Agent! Let know your thoughts and suggestions.
 
