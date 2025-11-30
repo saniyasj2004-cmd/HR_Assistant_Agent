@@ -48,7 +48,7 @@ saniyasj-HR_Asssitant_Agent/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bachasachin0/Genai_Agentic_HR_assistant.git
+   git clone https://github.com/saniyasj2004-cmd/HR_Assistant_Agent/blob/main/HR_Assistant_Agent/HR_Assistant_Agent/README.md
    ```
 
 2. Navigate to the project directory:
